@@ -22,15 +22,10 @@ print(f"Faltam {faltam} anos para 2050.")
 O que foi aprendido
 
 Variáveis (str, int, float, bool).
-
 Entrada de dados com input().
-
 Conversão de tipos (int() e float()).
-
 Importação de módulos (import datetime).
-
 Impressão formatada com f-strings.
-
 Cálculos simples com datas.
 
 Comentário pessoal

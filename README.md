@@ -20,21 +20,3 @@ print(f"Em 2050 você terá {idade2050} anos de idade.")
 print(f"Faltam {faltam} anos para 2050.")
 
 
-O que foi aprendido
-
-Variáveis (str, int, float, bool).
-
-Entrada de dados com input().
-
-Conversão de tipos (int() e float()).
-
-Importação de módulos (import datetime).
-
-Impressão formatada com f-strings.
-
-Cálculos simples com datas.
-
-Comentário pessoal
-
-No Dia 2, já consegui criar um programa útil, que interage com o usuário.
-Foi muito legal ver que em pouco tempo já dá para fazer algo prático e inteligente, usando datas reais e cálculos automáticos.
